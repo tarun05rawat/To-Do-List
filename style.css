@@ -1,4 +1,4 @@
-*{
+body{
   margin: 0;
   padding: 0;
   font-family: "Popins", sans-serif;
@@ -11,7 +11,6 @@
   min-height: 100%;
   background: linear-gradient(135deg, #153677, #4e085f);
   padding: 10px;
-
 }
 
 .todo-app{
@@ -32,6 +31,6 @@
 
 .todo-app h2 img{
   width: 30px;
-  
+
 
 }
