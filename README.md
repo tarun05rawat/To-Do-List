@@ -1,6 +1,6 @@
 # To-Do List App
 
-This is a simple To-Do List web application built using HTML, CSS, and JavaScript. The app allows users to add, delete, and mark tasks as completed. The tasks are stored in the browser's local storage, so they persist even after the page is refreshed.
+This is a simple To-Do List web application built using HTML, CSS, and JavaScript and deployed using Vercel. The app allows users to add, delete, and mark tasks as completed. The tasks are stored in the browser's local storage, so they persist even after the page is refreshed.
 
 ## Features
 
@@ -11,7 +11,7 @@ This is a simple To-Do List web application built using HTML, CSS, and JavaScrip
 
 ## Demo
 
-You can see a live demo of the app [here](https://todolist-taruns-projects-cdcc5eed.vercel.app).
+You can see a live demo of the app (Vercel) [here](https://todolist-taruns-projects-cdcc5eed.vercel.app).
 
 ## Installation
 
