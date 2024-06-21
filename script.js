@@ -1,5 +1,6 @@
 const inputBox = document.getElementById('input-box');
 const listContainer = document.getElementById('list-container');
+const removebutton = document.getElementById('remove-button');
 
 function addTask() {
   if (inputBox.value === ''){
@@ -22,6 +23,11 @@ function handleKeyPress(event) {
   if (event.keyCode === 13) {
     addTask();
   }
+}
+
+function removeAll() {
+  listContainer.innerHTML = '';
+  saveData();
 }
 
 inputBox.addEventListener('keypress', handleKeyPress);
